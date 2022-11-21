@@ -7,4 +7,4 @@ About
 =====
 
 The Kohn method is a application of the variational principle for solving general few-body scattering problems. In other words,
-KohnVar is a template for solving a 1-D electron-nucleus scattering for an arbitrary potential, arbitraray electron energy, and arbitrary basis functions. ies
+KohnVar is a template for solving a 1-D electron-nucleus scattering for an arbitrary potential, arbitraray electron energy, and arbitrary basis functions. 
