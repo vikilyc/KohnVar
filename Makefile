@@ -20,4 +20,4 @@ ckohn: ${OBJS}
 	$(FORT) ${LDFLAGS} $(FFLAGS) -o $@ $^
 	rm -f *.o *.mod 
 clean:
-	rm -f *.o *.out test
+	rm -f *.o *.out ckohn
